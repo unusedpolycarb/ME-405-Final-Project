@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/567208f4-1a69-448f-bbc5-d614e7f98857)
 
-## Romi-O's Time Trial
+## Romi-O's Time Trial (click to watch!)
 
 [![Watch our trial here!](https://img.youtube.com/vi/ucUNd86v_RI/0.jpg)](https://youtu.be/ucUNd86v_RI?si=cy1BHj5UCIDBjYc2)
 
