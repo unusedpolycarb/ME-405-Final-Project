@@ -1,4 +1,4 @@
-# Romi-O
+# Romi-O (was not built in a day)
 
 ![image](https://github.com/user-attachments/assets/567208f4-1a69-448f-bbc5-d614e7f98857)
 
