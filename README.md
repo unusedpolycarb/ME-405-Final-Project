@@ -56,5 +56,26 @@ The user input task is very simple with only two states for every possible butto
 
 ![image](https://github.com/user-attachments/assets/caeb97ff-0f13-496d-a720-e294e8075bfa)
 
+## Control System
+Our basic control system relies on reading the line deviation and converting that into a yaw acceleration to correct for the deviation. Over time that acceleration compiles and changes the yaw rate. 
+In other systems made by our classmates, when the deviation was zero the yaw rate was set to zero. This means that their robot will periodically under-turn when following a line of constant curvature. The benefit of our design is that when the deviation is zero, the acceleration is zero and the yaw rate is constant. This allows it to follow lines of constant curvature without periodically under or overturning.
+![image](https://github.com/user-attachments/assets/c8c0c975-9232-4f5b-8fb4-02d415dc6193)
+However, our system has multiple issues in practice. The first one being because yaw_accel can only gradually change target_yaw_rate over time, the system is typically slow to correct and loses the line during tight turns. To fix this we added extra logic to this controller.
 
+`if deviation > 16:
+      yaw_rate = MAX_YAW_MAX_DEV                
+if deviation < -16:
+      yaw_rate = -MAX_YAW_MAX_DEV`
+This bypasses the acceleration when the deviation is above a certain threshold, allowing the Romi to quickly adjust itself back onto the line. In the future, instead of using a linear function to convert line_deviation into yaw_acceleration, we recommend using a cubic polynomial which will naturally evaluate large accelerations at extreme deviations.
+
+### PID Velocity Control
+
+![image](https://github.com/user-attachments/assets/5c71bf60-a27a-4e25-8573-a45c13e98a5e)
+
+We use a PID loop with feed forward control to accurately set the velocity of each motor. The block diagram is shown above. 
+We also implemented yaw rate control, using feedback from the BNO055 gyroscope. This system wraps around the PID velocity control and only uses P and I elements. This is shown in the block diagram below. 
+
+![image](https://github.com/user-attachments/assets/2187be69-95a3-40e4-b18e-66a031f309b2)
+
+Altogether this system allows us to set the forward velocity and yaw rate of the Romi. This capability is most clearly used during the “box maneuver” where the Romi traces a semicircle around the box obstacle. It is also a key part of our line following algorithm, since our line following control outputs a yaw_rate.
 
