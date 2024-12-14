@@ -3,13 +3,13 @@
 
 [![Watch the video](https://img.youtube.com/vi/ucUNd86v_RI/0.jpg)](https://youtu.be/ucUNd86v_RI?si=cy1BHj5UCIDBjYc2)
 
-# CAD ReadMe
+# Mechanical Design
 The Romi robot consists of a plastic base, bought from Pololu, upon which two DC motors are mounted. A laser-cut acrylic piece is attached to the base via multiple metal stand offs (provided by our professor). The Nucleo L476 sits atop this acrylic piece.  
 
 ![image](https://github.com/user-attachments/assets/ed11c48e-119e-4928-b386-a1c8c50f31ee)
 A 3d printed fixture was designed to attach the IR sensor array and two limit switches to the front of the Romi. A CAD model approximation of the IR array and the CAD model of the mount are provided in SolidWorks format.
 
-# Electrical ReadMe
+# Electrical Design
 
 ## The overall electrical layout:
 ![image](https://github.com/user-attachments/assets/aab5baaf-0229-489f-bc56-d4008f9c643d)
