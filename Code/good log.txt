@@ -1,0 +1,1917 @@
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.418079
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.396262
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.396262
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.396262
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.418079
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.396262
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.418079
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.396262
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.396262
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.396262
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.374446
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.308996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.352629
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.308996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.308996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.308996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.308996
+enc B: 0.0
+None
+Detected a keyboard break
+Call continue_run() to continue program
+>>> set_motor_speed('A',5)
+SPEED
+checkpoint A
+Checkpoint B
+Checkpoint B
+enc A: 1.330217
+enc B: 0.0
+set speed
+set finished
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 3.810004, P: 5.334005, I: 0.002095502, D:0.346364, effort:10.68246/15.984                      , enc speed: 1.189996
+duty: 66
+Checkpoint B
+enc A: 1.189996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 3.99308, P: 5.590312, I: 0.007286506, D:0.0070414, effort:10.60464/15.984                      , enc speed: 1.00692
+duty: 66
+Checkpoint B
+enc A: 1.00692
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 7.68512, P: 10.75917, I: 0.01727716, D:0.1420015, effort:15.91845/15.984,                       enc speed: -2.68512
+duty: 99
+Checkpoint B
+enc A: -2.68512
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 10.53806, P: 14.75328, I: 0.03097664, D:0.1097284, effort:15.984/15.984,                       enc speed: -5.538059
+duty: 100
+Checkpoint B
+enc A: -5.538059
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 13.55882, P: 18.98235, I: 0.04860311, D:0.1161831, effort:15.984/15.984,                       enc speed: -8.558819
+duty: 100
+Checkpoint B
+enc A: -8.558819
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 15.57266, P: 21.80172, I: 0.06884756, D:0.07745541, effort:15.984/15.984,                       enc speed: -10.57266
+duty: 100
+Checkpoint B
+enc A: -10.57266
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 16.91522, P: 23.6813, I: 0.09083735, D:0.05163688, effort:15.984/15.984,                       enc speed: -11.91522
+duty: 100
+Checkpoint B
+enc A: -11.91522
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 17.28194, P: 24.19471, I: 0.114168, D:0.01358216, effort:15.984/15.984, e                      nc speed: -12.28194
+duty: 100
+Checkpoint B
+enc A: -12.28194
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.08996, P: 25.32594, I: 0.1376849, D:0.03107775, effort:15.984/15.984,                       enc speed: -13.08996
+duty: 100
+Checkpoint B
+enc A: -13.08996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 0.16142, D:0.006454616, effort:15.984/15.984, e                      nc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 0.1851551, D:0.0, effort:15.984/15.984, enc spe                      ed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.08996, P: 25.32594, I: 0.2086721, D:-0.006454616, effort:15.984/15.984                      , enc speed: -13.08996
+duty: 100
+Checkpoint B
+enc A: -13.08996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 0.2326253, D:0.01290923, effort:15.984/15.984, e                      nc speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.08996, P: 25.32594, I: 0.2561423, D:-0.01290923, effort:15.984/15.984,                       enc speed: -13.08996
+duty: 100
+Checkpoint B
+enc A: -13.08996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 0.2798774, D:0.006454616, effort:15.984/15.984,                       enc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 0.3038307, D:0.006454616, effort:15.984/15.984,                       enc speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.08996, P: 25.32594, I: 0.3273476, D:-0.01290923, effort:15.984/15.984,                       enc speed: -13.08996
+duty: 100
+Checkpoint B
+enc A: -13.08996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.2354, P: 25.52956, I: 0.3547007, D:0.004848163, effort:15.984/15.984,                       enc speed: -13.2354
+duty: 100
+Checkpoint B
+enc A: -13.2354
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.08996, P: 25.32594, I: 0.3782177, D:-0.005594034, effort:15.984/15.984                      , enc speed: -13.08996
+duty: 100
+Checkpoint B
+enc A: -13.08996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 0.4019527, D:0.006454616, effort:15.984/15.984,                       enc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 17.76675, P: 24.87345, I: 0.4259378, D:-0.01818621, effort:15.984/15.984,                       enc speed: -12.76675
+duty: 100
+Checkpoint B
+enc A: -12.76675
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 0.4498911, D:0.0253403, effort:15.984/15.984, en                      c speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 17.92214, P: 25.09099, I: 0.4731899, D:-0.01936384, effort:15.984/15.984,                       enc speed: -12.92214
+duty: 100
+Checkpoint B
+enc A: -12.92214
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 0.496925, D:0.01290923, effort:15.984/15.984, e                      nc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 0.5206601, D:0.0, effort:15.984/15.984, enc spe                      ed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 17.92214, P: 25.09099, I: 0.5439589, D:-0.01290923, effort:15.984/15.984,                       enc speed: -12.92214
+duty: 100
+Checkpoint B
+enc A: -12.92214
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 0.567694, D:0.01290923, effort:15.984/15.984, e                      nc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 0.5914291, D:0.0, effort:15.984/15.984, enc spe                      ed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.43902, P: 25.81463, I: 0.6144779, D:0.007249756, effort:15.984/15.984,                       enc speed: -13.43902
+duty: 100
+Checkpoint B
+enc A: -13.43902
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 17.76675, P: 24.87345, I: 0.638463, D:-0.02489895, effort:15.984/15.984,                       enc speed: -12.76675
+duty: 100
+Checkpoint B
+enc A: -12.76675
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 0.6621981, D:0.01888568, effort:15.984/15.984,                       enc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 0.6859332, D:0.0, effort:15.984/15.984, enc spe                      ed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.08996, P: 25.32594, I: 0.7094501, D:-0.006454616, effort:15.984/15.984                      , enc speed: -13.08996
+duty: 100
+Checkpoint B
+enc A: -13.08996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 0.7331852, D:0.006454616, effort:15.984/15.984,                       enc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 0.7571385, D:0.006454616, effort:15.984/15.984,                       enc speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 0.7808736, D:-0.006454616, effort:15.984/15.984                      , enc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 17.92835, P: 25.0997, I: 0.8050769, D:-0.01220089, effort:15.984/15.984,                       enc speed: -12.92835
+duty: 100
+Checkpoint B
+enc A: -12.92835
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 0.828812, D:0.01267015, effort:15.984/15.984, e                      nc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 17.76675, P: 24.87345, I: 0.8527971, D:-0.01818621, effort:15.984/15.984,                       enc speed: -12.76675
+duty: 100
+Checkpoint B
+enc A: -12.76675
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 0.8767504, D:0.0253403, effort:15.984/15.984, en                      c speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.08996, P: 25.32594, I: 0.9002673, D:-0.01290923, effort:15.984/15.984,                       enc speed: -13.08996
+duty: 100
+Checkpoint B
+enc A: -13.08996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 17.92835, P: 25.0997, I: 0.9244706, D:-0.005985331, effort:15.984/15.984,                       enc speed: -12.92835
+duty: 100
+Checkpoint B
+enc A: -12.92835
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 0.9484239, D:0.01912476, effort:15.984/15.984, e                      nc speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 0.972159, D:-0.006454616, effort:15.984/15.984,                       enc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 0.9958941, D:0.0, effort:15.984/15.984, enc spe                      ed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.08996, P: 25.32594, I: 1.019411, D:-0.006454616, effort:15.984/15.984,                       enc speed: -13.08996
+duty: 100
+Checkpoint B
+enc A: -13.08996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 17.92835, P: 25.0997, I: 1.043614, D:-0.005985331, effort:15.984/15.984,                       enc speed: -12.92835
+duty: 100
+Checkpoint B
+enc A: -12.92835
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 1.067568, D:0.01912476, effort:15.984/15.984, en                      c speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.08996, P: 25.32594, I: 1.091085, D:-0.01290923, effort:15.984/15.984,                       enc speed: -13.08996
+duty: 100
+Checkpoint B
+enc A: -13.08996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 1.115038, D:0.01290923, effort:15.984/15.984, en                      c speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.08996, P: 25.32594, I: 1.138555, D:-0.01290923, effort:15.984/15.984,                       enc speed: -13.08996
+duty: 100
+Checkpoint B
+enc A: -13.08996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 17.92835, P: 25.0997, I: 1.162758, D:-0.005985331, effort:15.984/15.984,                       enc speed: -12.92835
+duty: 100
+Checkpoint B
+enc A: -12.92835
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 1.186711, D:0.01912476, effort:15.984/15.984, en                      c speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 1.210446, D:-0.006454616, effort:15.984/15.984,                       enc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 1.2344, D:0.006454616, effort:15.984/15.984, enc                       speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.08996, P: 25.32594, I: 1.257917, D:-0.01290923, effort:15.984/15.984,                       enc speed: -13.08996
+duty: 100
+Checkpoint B
+enc A: -13.08996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 17.92835, P: 25.0997, I: 1.28212, D:-0.005985331, effort:15.984/15.984, e                      nc speed: -12.92835
+duty: 100
+Checkpoint B
+enc A: -12.92835
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 1.305855, D:0.01267015, effort:15.984/15.984, e                      nc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 1.329808, D:0.006454616, effort:15.984/15.984, e                      nc speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 1.353544, D:-0.006454616, effort:15.984/15.984,                       enc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.08996, P: 25.32594, I: 1.377965, D:-0.006215555, effort:15.984/15.984,                       enc speed: -13.08996
+duty: 100
+Checkpoint B
+enc A: -13.08996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 17.92835, P: 25.0997, I: 1.402168, D:-0.005985331, effort:15.984/15.984,                       enc speed: -12.92835
+duty: 100
+Checkpoint B
+enc A: -12.92835
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 1.426121, D:0.01912476, effort:15.984/15.984, en                      c speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 1.449857, D:-0.006454616, effort:15.984/15.984,                       enc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 1.47381, D:0.006454616, effort:15.984/15.984, en                      c speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 1.497545, D:-0.006454616, effort:15.984/15.984,                       enc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.59342, P: 26.03078, I: 1.521716, D:0.01290923, effort:15.984/15.984, e                      nc speed: -13.59342
+duty: 100
+Checkpoint B
+enc A: -13.59342
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 1.54567, D:-0.006454616, effort:15.984/15.984, e                      nc speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 1.569405, D:-0.006454616, effort:15.984/15.984,                       enc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.59342, P: 26.03078, I: 1.593576, D:0.01290923, effort:15.984/15.984, e                      nc speed: -13.59342
+duty: 100
+Checkpoint B
+enc A: -13.59342
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 1.617529, D:-0.006454616, effort:15.984/15.984,                       enc speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 1.641265, D:-0.006454616, effort:15.984/15.984,                       enc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.59342, P: 26.03078, I: 1.665436, D:0.01290923, effort:15.984/15.984, e                      nc speed: -13.59342
+duty: 100
+Checkpoint B
+enc A: -13.59342
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 1.689389, D:-0.006454616, effort:15.984/15.984,                       enc speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 1.713343, D:0.0, effort:15.984/15.984, enc speed                      : -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.43902, P: 25.81463, I: 1.736391, D:0.0005369568, effort:15.984/15.984,                       enc speed: -13.43902
+duty: 100
+Checkpoint B
+enc A: -13.43902
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.59342, P: 26.03078, I: 1.760563, D:0.00593831, effort:15.984/15.984, e                      nc speed: -13.59342
+duty: 100
+Checkpoint B
+enc A: -13.59342
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 17.92835, P: 25.0997, I: 1.784766, D:-0.024632, effort:15.984/15.984, enc                       speed: -12.92835
+duty: 100
+Checkpoint B
+enc A: -12.92835
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.4256, P: 25.79584, I: 1.808719, D:0.01912476, effort:15.984/15.984, en                      c speed: -13.4256
+duty: 100
+Checkpoint B
+enc A: -13.4256
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.25778, P: 25.56089, I: 1.832454, D:-0.006454616, effort:15.984/15.984,                       enc speed: -13.25778
+duty: 100
+Checkpoint B
+enc A: -13.25778
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.16929, P: 25.43701, I: 1.88242, D:-0.001608831, effort:15.984/15.984,                       enc speed: -13.16929
+duty: 100
+Checkpoint B
+enc A: -13.16929
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.13359, P: 25.38703, I: 2.063756, D:-0.0001784992, effort:15.984/15.984                      , enc speed: -13.13359
+duty: 100
+Checkpoint B
+enc A: -13.13359
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.11177, P: 25.35648, I: 2.244874, D:-0.0001090908, effort:15.984/15.984                      , enc speed: -13.11177
+duty: 100
+Checkpoint B
+enc A: -13.11177
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.15541, P: 25.41757, I: 2.426428, D:0.0002181625, effort:15.984/15.984,                       enc speed: -13.15541
+duty: 100
+Checkpoint B
+enc A: -13.15541
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.08996, P: 25.32594, I: 2.607327, D:-0.0003272438, effort:15.984/15.984                      , enc speed: -13.08996
+duty: 100
+Checkpoint B
+enc A: -13.08996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.15541, P: 25.41757, I: 2.788881, D:0.0003272438, effort:15.984/15.984,                       enc speed: -13.15541
+duty: 100
+Checkpoint B
+enc A: -13.15541
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.08996, P: 25.32594, I: 2.969781, D:-0.0003272438, effort:15.984/15.984                      , enc speed: -13.08996
+duty: 100
+Checkpoint B
+enc A: -13.08996
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.15541, P: 25.41757, I: 3.151335, D:0.0003272438, effort:15.984/15.984,                       enc speed: -13.15541
+duty: 100
+Checkpoint B
+enc A: -13.15541
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.15541, P: 25.41757, I: 3.332889, D:0.0, effort:15.984/15.984, enc spee                      d: -13.15541
+duty: 100
+Checkpoint B
+enc A: -13.15541
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.15541, P: 25.41757, I: 3.514443, D:0.0, effort:15.984/15.984, enc spee                      d: -13.15541
+duty: 100
+Checkpoint B
+enc A: -13.15541
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.15541, P: 25.41757, I: 3.695997, D:0.0, effort:15.984/15.984, enc spee                      d: -13.15541
+duty: 100
+Checkpoint B
+enc A: -13.15541
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.17723, P: 25.44811, I: 3.877769, D:0.0001090908, effort:15.984/15.984,                       enc speed: -13.17723
+duty: 100
+Checkpoint B
+enc A: -13.17723
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.19959, P: 25.47943, I: 4.058856, D:0.0001123898, effort:15.984/15.984,                       enc speed: -13.19959
+duty: 100
+Checkpoint B
+enc A: -13.19959
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.17723, P: 25.44811, I: 4.240628, D:-0.0001118279, effort:15.984/15.984                      , enc speed: -13.17723
+duty: 100
+Checkpoint B
+enc A: -13.17723
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.15541, P: 25.41757, I: 4.422182, D:-0.0001090908, effort:15.984/15.984                      , enc speed: -13.15541
+duty: 100
+Checkpoint B
+enc A: -13.15541
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.22152, P: 25.51012, I: 4.603486, D:0.0003322046, effort:15.984/15.984,                       enc speed: -13.22152
+duty: 100
+Checkpoint B
+enc A: -13.22152
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.19904, P: 25.47866, I: 4.785476, D:-0.0001123619, effort:15.984/15.984                      , enc speed: -13.19904
+duty: 100
+Checkpoint B
+enc A: -13.19904
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.22152, P: 25.51012, I: 4.966781, D:0.0001129265, effort:15.984/15.984,                       enc speed: -13.22152
+duty: 100
+Checkpoint B
+enc A: -13.22152
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.24344, P: 25.54082, I: 5.148303, D:0.0001101853, effort:15.984/15.984,                       enc speed: -13.24344
+duty: 100
+Checkpoint B
+enc A: -13.24344
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.19904, P: 25.47866, I: 5.330293, D:-0.0002219963, effort:15.984/15.984                      , enc speed: -13.19904
+duty: 100
+Checkpoint B
+enc A: -13.19904
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.26449, P: 25.57029, I: 5.512938, D:0.0003272438, effort:15.984/15.984,                       enc speed: -13.26449
+duty: 100
+Checkpoint B
+enc A: -13.26449
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.28631, P: 25.60083, I: 5.695802, D:0.0001090813, effort:15.984/15.984,                       enc speed: -13.28631
+duty: 100
+Checkpoint B
+enc A: -13.28631
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.28631, P: 25.60083, I: 5.878665, D:0.0, effort:15.984/15.984, enc spee                      d: -13.28631
+duty: 100
+Checkpoint B
+enc A: -13.28631
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.30812, P: 25.63137, I: 6.061746, D:0.0001090813, effort:15.984/15.984,                       enc speed: -13.30812
+duty: 100
+Checkpoint B
+enc A: -13.30812
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: 18.26449, P: 25.57029, I: 6.244391, D:-0.0002181625, effort:15.984/15.984                      , enc speed: -13.26449
+duty: 100
+Checkpoint B
+enc A: -13.26449
+enc B: 0.0
+None
+checkpoint A
+Checkpoint B
+Checkpoint C
+Checkpoint D
+Checkpoint E
+Checkpoint F
+error: -1407.603, P: -1970.644, I: -7.831639, D:-7.129338, effort:-15.984/15.984                      , enc speed: 1412.603
+duty: -100
