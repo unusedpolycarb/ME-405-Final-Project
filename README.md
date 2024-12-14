@@ -70,6 +70,8 @@ However, our system has multiple issues in practice. The first one being because
       
 `if deviation < -16:
       yaw_rate = -MAX_YAW_MAX_DEV`
+
+      
 This bypasses the acceleration when the deviation is above a certain threshold, allowing the Romi to quickly adjust itself back onto the line. In the future, instead of using a linear function to convert line_deviation into yaw_acceleration, we recommend using a cubic polynomial which will naturally evaluate large accelerations at extreme deviations.
 
 ### PID Velocity Control
